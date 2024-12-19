@@ -3,7 +3,7 @@ Module 4 challenge
 Author: Jeff Gielniak
 Date: 2024-12-16
 
-This is the submission of Module 4 Assignment - Pandas challenge
+This is the submission of Module 4 Assignment - Pandas challenge.  Please navigate to the PyCitySchools.ipynb file in PyCitySchool/PyCitySchools_download/
 
 We are merging the schools_complete.csv and students_complete.csv files into a dataframe in Python and manipulating the data to better understand what it is telling us.  Below is my conclusion of what the calculations are telling us:
 
